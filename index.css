@@ -28,7 +28,7 @@ background: #222;
       text-align: left;
       font-size: 12px;
       padding: 4px;
-      color: #555;
+      color: #fca779;
 }
 .search{
       width: 100%;
@@ -82,7 +82,8 @@ background: #222;
       height: 60px;
       border-radius: 30px;
       flex: 1;
-      margin-right: 16px;
+      margin-right: 10px;
+      margin-left: -4px;
       font-size: 18px;
 }
 
