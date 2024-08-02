@@ -27,4 +27,4 @@ Ensure you have a modern web browser to run the application. No server setup is 
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/simple-weather-app.git
+   git clone https://github.com/Timiprogs/Weather-App.git
