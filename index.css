@@ -86,6 +86,10 @@ background: #222;
       font-size: 18px;
 }
 
+.search input::placeholder{
+      font-size: 14px;
+}
+
 .search button{
       border: 0;
       outline: 0;
